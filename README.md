@@ -19,7 +19,7 @@ nano Example_Config.py
 ```
 ### Steam Config
 
-Replace `Steam API Key` with your Steam API key
+Replace `Steam API Key` with your Steam API key (You can Get a Steam API key [Here](https://steamcommunity.com/dev/apikey)
 
 Replace `Your User ID` with your steam user ID (this can be found by visiting https://steamcommunity.com/ and searching your username in the "search for freinds" box after clicking on yourself your steam user ID can be found in the URL. For example on my profile https://steamcommunity.com/profiles/76561199084170401 my steam user ID is 76561199084170401
 
