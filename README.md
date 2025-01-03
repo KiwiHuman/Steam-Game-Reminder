@@ -65,7 +65,7 @@ Edit the newly created file using
 ```
 sudo nano /etc/systemd/system/GameAutoreminder.service
 ```
-in /etc/systemd/system/GameAutoreminder.service input the following. Remember to replace `KiwiHuman' with the user that should run the service.
+in /etc/systemd/system/GameAutoreminder.service input the following. Remember to replace `KiwiHuman` with the user that should run the service.
 ```
 [Unit]
 Description=Steam game reminder program] 
